@@ -1,0 +1,8 @@
+.Navigate{
+    /* border:1px solid #000; */
+}
+
+.active{
+    background-color: #1362fc;
+    color: #fff;
+}
